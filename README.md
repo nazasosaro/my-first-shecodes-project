@@ -15,7 +15,7 @@ The primary focus of this project was to demonstrate the integration of the SheC
 
 ### Screenshot
 <div>
-  <div style='display: flex'; flex-direction: column; justify-content: center; width: 100%; gap: 20px; padding: 25px 0'>
+  <div style='display: flex'; flex-direction: column; justify-content: center; width: 50%; gap: 20px; padding: 25px 0'>
     <img src='./images/screenshot-weather-app.png'/>
   </div>
 </div>
