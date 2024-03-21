@@ -14,10 +14,8 @@ Users can search for specific countries and viwe the current temperature.
 The primary focus of this project was to demonstrate the integration of the SheCodes API and the manipulation of weather data.
 
 ### Screenshot
-<div>
-  <div style='display: flex'; flex-direction: column; justify-content: center; width: 50%; gap: 20px; padding: 25px 0'>
-    <img src='./images/screenshot-weather-app.png'/>
-  </div>
+<div align='center'>
+    <img src='./images/screenshot-weather-app.png'width="600" />
 </div>
 
 ### Links
