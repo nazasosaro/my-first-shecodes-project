@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Preview](#preview)
   - [Links](#links)
 - [My process](#my-process)
   - [Build with](#build-with)
@@ -13,8 +13,8 @@ This project is a weather app that utilizes the SheCodes API to fetch weather da
 Users can search for specific countries and view the current temperature.
 The primary focus of this project was to demonstrate the integration of the SheCodes API and the manipulation of weather data.
 
-### Screenshot
-<div align='center'>
+### Preview
+<div>
     <img src='./images/screenshot-weather-app.png'width="600" />
 </div>
 
