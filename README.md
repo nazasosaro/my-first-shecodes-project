@@ -10,7 +10,7 @@
 
 ## Overview
 This project is a weather app that utilizes the SheCodes API to fetch weather data for select countries.
-Users can search for specific countries and viwe the current temperature.
+Users can search for specific countries and view the current temperature.
 The primary focus of this project was to demonstrate the integration of the SheCodes API and the manipulation of weather data.
 
 ### Screenshot
